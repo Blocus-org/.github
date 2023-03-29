@@ -1,6 +1,6 @@
 # Blocus.org
 <div align='center'>
-  <img src='Blocus_readme.png'>
+  <img src='profile/Blocus_readme.png'>
 </div
 
   A VERY small organiation for creating together some useful tools, softwares, opensource alternatives, and maybe someday build a more secure and free Internet for everyone, let let me dream, or come dream with me 😄 !
