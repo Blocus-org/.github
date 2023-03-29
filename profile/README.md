@@ -1,4 +1,3 @@
-# Blocus.org
 <div align='center'>
   <img src='profile/Blocus_readme.png'>
 </div
