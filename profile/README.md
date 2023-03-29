@@ -6,6 +6,7 @@
 
 
 ## Our rules
+- Joining is facultative
 - All repos are public.
 - All members are public.
 - No ads (you can donate, only if you find our work useful).
