@@ -11,5 +11,5 @@ A VERY small organiation for creating together some useful tools, softwares, ope
 - Feel free to ask any question about programming languages and we will try to answer the best way (if we have enough knowledge)
 
 ## How to join?
-- Just ask! It will be accepted.
+- Just ask! It will be accepted. (blocus-org@proton.me)
 
