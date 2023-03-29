@@ -1,2 +1,1 @@
-# .github
-Blocus.org 
+### The repository of the Blocus.org homepage
