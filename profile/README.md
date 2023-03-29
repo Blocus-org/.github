@@ -6,12 +6,13 @@
 
 
 ## Our rules
-- All repos are public
-- All members are public
-- No ads (you can donate, only if you find our work useful)
-- Everyone is welcome from begginers to pros, for teaching or learning something fun
-- Feel free to ask any question about programming languages and we will try to answer the best way (if we have enough knowledge)
+- All repos are public.
+- All members are public.
+- No ads (you can donate, only if you find our work useful).
+- Everyone is welcome from begginers to pros, for teaching or learning something fun.
+- Feel free to ask any question about programming languages and we will try to answer the best way (if we have enough knowledge).
+- You can freely transfer your repositories ownership to the organisation, buit it will always remain your work. No labelling, sublicencing, etc, just love for conding and sharing it.
 
 ## How to join?
-- Just ask! It will be accepted. (blocus-org@proton.me)
+- Just ask! It will be accepted. (send Github username to blocus-org@proton.me or open a discussion in any of our repos containing your demand!)
 
