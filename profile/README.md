@@ -15,5 +15,5 @@
 - You can freely transfer your repositories ownership to the organisation, but it will always remain your work. No labelling, sublicencing, etc, just love for coding and sharing it.
 
 ## How to join?
-- Just ask! It will be accepted. (send Github username to blocus-org@proton.me or open a discussion containing your demand in any of our repos!)
+- Just contribute or open an issue, you'll recieve an invitation!
 
