@@ -15,5 +15,5 @@
 - You can freely transfer your repositories ownership to the organisation, but it will always remain your work. No labelling, sublicencing, etc, just love for coding and sharing it.
 
 ## How to join?
-- Just contribute or open an issue, you'll recieve an invitation!
+- Just contribute or open an issue or a discussion. you'll recieve an invitation!
 
