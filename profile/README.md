@@ -2,11 +2,11 @@
   <img src='profile/Blocus_readme.png'>
 </div
 
-  A VERY small organiation for creating together some useful tools, softwares, opensource alternatives, and maybe someday build a more secure and free Internet for everyone, let let me dream, or come again with me 😄 !
+  A VERY small organiation for creating together some useful tools, softwares, opensource alternatives, and maybe someday build a more secure and free Internet for everyone, let me dream, or come again with me 😄 !
 
 
 ## Our rules
-- Joining is facultative
+- Joining is optional.
 - All repos are public.
 - All members are public.
 - No ads (you can donate, only if you find our work useful).
